@@ -9,19 +9,19 @@ body{
   background-color: #f8f6f0;
 }
 h1{
-  font-weight: 300;
-  margin: 0px;
+  font-weight: 300px;
+  margin-bottom: 20px;
   padding: 10px;
-  font-size: 20px;
+  font-size: 30px;
   background-color: black;
   color: #fff;
 }
 .question{
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 10px;
 }
 .answers {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   text-align: left;
   display: inline-block;
 }
@@ -42,4 +42,8 @@ button{
 }
 button:hover{
     background-color: #38a;
+}
+
+#submit{
+  width: 200px;
 }
