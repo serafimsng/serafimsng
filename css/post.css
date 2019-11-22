@@ -1,0 +1,49 @@
+.outer{
+	border: 1px solid black;
+	width: 900px;
+	height: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.inner{
+	width: 700px;
+	height: 1200px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-bottom: 1px solid black;
+
+}
+
+img{
+	display: block;
+	width: 100%;
+	height: 30%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tanggal{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.judul{
+	font-family: 'Merriweather', serif;
+	margin-top: 30px;
+}
+
+.subjudul{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin-bottom: 40px;
+}
+
+.isi{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+}
